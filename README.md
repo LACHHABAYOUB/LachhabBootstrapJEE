@@ -25,4 +25,4 @@ FR
 
 	Utilisation de 
 		•	frameworkSpringIOC pour l’injection des dépendances
-		•	Framework CSS BootStrappour améliorer le désign
+		•	Framework CSS BootStrap pour améliorer le désign
